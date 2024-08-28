@@ -96,10 +96,10 @@ dbankcloud.ru
 # mtalk.google.com
 # play.google.com
 #  adobe.com
-(\.|^)acvdn\.net$
-(\.|^)dbankedge\.net$
-(\.|^)hicloud\.com$ 
-(\.|^)netflix\.com$
+acvdn.net
+dbankedge.net
+hicloud.com
+netflix.com
 adobe.io
 adobelogin.com
 allawnos.com
